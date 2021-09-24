@@ -1,6 +1,4 @@
-# EDS 124BR - Teaching Computational Thinking
-
-## Explain My program Videos
+# EDS 124BR - Teaching Computational Thinking Videos
 
 ### Week 1
 <a href="https://youtu.be/qQUIAXceEC8">
