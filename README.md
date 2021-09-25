@@ -3,9 +3,7 @@
 ### Week 1
 
 <a href="https://youtu.be/qQUIAXceEC8">
-  <div>
-    <img width="275" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1632528436/video_to_markdown/images/youtube--qQUIAXceEC8-c05b58ac6eb4c4700831b2b3070cd403.jpg"/>
-  </div>
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Sequencing_PB.png"/>
 </a>
 
 ### Week 2
@@ -25,17 +23,3 @@
 ### Week 9
 
 ### Week 10
-
-.under {
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  z-index: -1;
-}
-
-.over {
-  position: absolute;
-  left: 40px;
-  top: 10px;
-  z-index: -1;
-}
