@@ -2,7 +2,7 @@
 
 ### Week 1
 
-<a href="javascript:void();" onclick="window.open('https://youtu.be/qQUIAXceEC8', 'NewButtonWindowName','width=275,scrollbars=yes')"
+<a href="javascript:void();" onclick="window.open('https://youtu.be/qQUIAXceEC8', '_blank','width=275,scrollbars=yes')"></a>
 
 <a href="https://youtu.be/qQUIAXceEC8">
     <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Sequencing_PB.png"/>
