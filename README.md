@@ -1,12 +1,8 @@
 # EDS 124BR - Teaching Computational Thinking Videos
 
 ### Week 1
-<a href="https://youtu.be/qQUIAXceEC8">
-  <div>
-    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Sequencing.png" class = "under" />
-    <img src="https://tafttest.com/100x84.png" width="100" height="84" class="over" />
-  </div>
-</a>
+
+[![Sequencing](https://res.cloudinary.com/marcomontalbano/image/upload/v1632528436/video_to_markdown/images/youtube--qQUIAXceEC8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/qQUIAXceEC8 "Sequencing")
 
 ### Week 2
 
