@@ -2,8 +2,10 @@
 
 ### Week 1
 <a href="https://youtu.be/qQUIAXceEC8">
-  <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Sequencing.png" class = "under" />
-  <img src="https://tafttest.com/100x84.png" width="100" height="84" class="over" />
+  <div>
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Sequencing.png" class = "under" />
+    <img src="https://tafttest.com/100x84.png" width="100" height="84" class="over" />
+  </div>
 </a>
 
 ### Week 2
