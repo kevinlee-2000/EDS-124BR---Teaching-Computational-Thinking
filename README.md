@@ -7,7 +7,7 @@
 
 ### Week 2
 <a href="https://youtu.be/ZYYYJqG50I8">
-    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Sequencing_PB.png"/>
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Repeats_PB.png"/>
 </a>
 
 ### Week 3
