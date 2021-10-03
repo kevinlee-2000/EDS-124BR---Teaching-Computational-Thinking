@@ -10,10 +10,11 @@
     <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Repeats_PB.png"/>
 </a>
 
-### Week 3
 <a href="https://youtu.be/wqV72vyNneA">
     <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Repeats_Animal_Parade_PB.png"/>
 </a>
+
+### Week 3
 
 ### Week 4
 
