@@ -15,6 +15,9 @@
 </a>
 
 ### Week 3
+<a href="https://youtu.be/1QPX2J4V8lwA">
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Nested_Repeats_PB.png"/>
+</a>
 
 ### Week 4
 
