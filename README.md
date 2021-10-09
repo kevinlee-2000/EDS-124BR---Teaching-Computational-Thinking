@@ -19,6 +19,10 @@
     <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Nested_Repeats_PB.png"/>
 </a>
 
+<a href="https://youtu.be/HwOKDcHl8cs">
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Events_PB.png"/>
+</a>
+
 ### Week 4
 
 ### Week 5
