@@ -24,6 +24,9 @@
 </a>
 
 ### Week 4
+<a href="https://youtu.be/F2FQXcVk00c">
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Variables_PB.png"/>
+</a>
 
 ### Week 5
 
