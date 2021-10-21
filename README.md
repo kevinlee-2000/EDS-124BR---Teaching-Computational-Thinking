@@ -29,6 +29,9 @@
 </a>
 
 ### Week 5
+<a href="https://youtu.be/8vWIS455EkQ">
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Conditional_Repeat_PB.png"/>
+</a>
 
 ### Week 6
 
