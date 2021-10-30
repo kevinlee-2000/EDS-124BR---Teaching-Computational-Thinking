@@ -34,6 +34,9 @@
 </a>
 
 ### Week 6
+<a href="https://youtu.be/WWJW3Ydc5Mw">
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/If_Else_PB.png"/>
+</a>
 
 ### Week 7
 
