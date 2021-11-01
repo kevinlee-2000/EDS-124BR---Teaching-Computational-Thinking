@@ -39,6 +39,9 @@
 </a>
 
 ### Week 7
+<a href="https://youtu.be/HXsgPGJ7V4Q">
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Nested_If_Else_PB.png"/>
+</a>
 
 ### Week 8
 
