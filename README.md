@@ -44,6 +44,9 @@
 </a>
 
 ### Week 8
+<a href="https://youtu.be/jf7qH6JjM3o">
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Compound_Conditional_PB.png"/>
+</a>
 
 ### Week 9
 
