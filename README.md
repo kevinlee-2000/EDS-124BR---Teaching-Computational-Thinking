@@ -49,6 +49,9 @@
 </a>
 
 ### Week 9
+<a href="https://youtu.be/FofX-auS3nM">
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Abstraction_PB.png"/>
+</a>
 
 ### Week 10
 
