@@ -54,6 +54,9 @@
 </a>
 
 ### Week 10
+<a href="https://youtu.be/jVxDzF0hULE">
+    <img width="275" src="https://github.com/kevinlee-2000/EDS-124BR-Teaching-Computational-Thinking/blob/main/thumbnails/Lists_PB.png"/>
+</a>
 
 <!-- Comments -->
 <!-- Source for image with play button overlay https://fbutube.com/add-play-button-to-image --> 
